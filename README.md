@@ -7,4 +7,4 @@ A python script for generating an Entity Relationship Diagram for the Stack Exch
 
 ## Database Schema Construction Script 
 
-Either in jupyter notebook ([info_schema-to-SQL_create_script.ipynb](https://github.com/leerssej/SEDESchema/blob/master/info_schema-to-SQL_create_script.ipynb) or the converted [info_schema-to-SQL_create_script.py](https://github.com/leerssej/SEDESchema/blob/master/info_schema-to-SQL_create_script.py) file
+Either in jupyter notebook [info_schema-to-SQL_create_script.ipynb](https://github.com/leerssej/SEDESchema/blob/master/info_schema-to-SQL_create_script.ipynb) file or the converted [info_schema-to-SQL_create_script.py](https://github.com/leerssej/SEDESchema/blob/master/info_schema-to-SQL_create_script.py) file
